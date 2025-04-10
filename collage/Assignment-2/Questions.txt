@@ -1,0 +1,16 @@
+Implement Decision Tree on the Given Dataset.
+You have to implement the Decision tree classification problem on the given dataset. The instructions are as followed:
+
+1) Import required libraries
+2) Read the data
+3) Show basic overview of the data like head, target, or any missing values
+4) Handle the missing values if any
+5) Perform all basic EDA including all types of plots to show relation between features
+6) Divide the dataset into dependent and independent ( feature selection)
+7) Split data into train and test
+8) Build the DT
+9) Evaluate the model
+10) Visualize the DT
+11) Optimize the DT using other criterion like entropy for Information Gain (default is gini index)
+12) Build and visualize the DT again using the new criterion
+13) Find the model performance ( plot the confusion matrix and find the precision, recall, and fscore)
